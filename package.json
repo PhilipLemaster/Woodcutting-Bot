@@ -1,0 +1,23 @@
+{
+  "name": "Woodcutting-Bot",
+  "version": "1.0.0",
+  "description": "Woodcutting bot for oldschool Runescape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipLemaster/Woodcutting-Bot.git"
+  },
+  "keywords": [],
+  "author": "Philip Lemaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipLemaster/Woodcutting-Bot/issues"
+  },
+  "homepage": "https://github.com/PhilipLemaster/Woodcutting-Bot#readme",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
